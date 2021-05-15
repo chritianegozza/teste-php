@@ -4,6 +4,13 @@
 primeiro passo de uma criação em php 
 ![image](https://user-images.githubusercontent.com/72118415/118348474-ffcae500-b520-11eb-846f-1249457bac42.png)
 
+![image](https://user-images.githubusercontent.com/72118415/118348574-b5963380-b521-11eb-817c-d7087e5b1202.png)
+
+
+
+![image](https://user-images.githubusercontent.com/72118415/118348559-a7e0ae00-b521-11eb-8b3c-ba20bd639228.png)
+
+
 
 request.php
 
